@@ -1,0 +1,35 @@
+body {
+  padding-top: 56px;
+}
+
+.nav-background{
+  background: #000;
+}
+
+.logo{
+  width: 36px;
+}
+
+.logo-text{
+  color: #fff;
+}
+
+.btn-mit{
+  background: #dd1123;
+  border-color: #dd1123;
+}
+
+.column-block{
+  display: inline-block;
+}
+
+.bg-dark,
+.bg-secondary{
+  background:#000 !important;
+}
+
+.text-border{
+  border: 1px solid rgb(15, 11, 71);
+  border-radius: 3px;
+}
+
